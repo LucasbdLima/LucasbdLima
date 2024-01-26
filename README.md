@@ -12,8 +12,6 @@ Lucas Lima here. I'am student developer and passionate about technology!
 <a href="https://www.linkedin.com/in/lucas-lima-3086632a7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <br>
 <br>
-<a href="https://account.microsoft.com/profile/"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
-<br>
 <h3>Languages and Tools:</h3>
 <section>
     <img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
