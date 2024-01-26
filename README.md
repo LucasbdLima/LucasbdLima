@@ -1,13 +1,11 @@
 <h1>Hey guys!! :v::sunglasses: </h1>
 
-Lucas Lima here. I'am student developer and passionate about technology!
-<br>
-<h2>languages ​​used:</h2>
+<h3>Lucas Lima here. I'am student developer and passionate about technology!</h3>
+<h3>languages ​​used:</h3>
   <br>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-<br>
-<h2>Connect with me:</h2>
+<h3>Connect with me:</h3>
 <br>
 <a href="https://www.linkedin.com/in/lucas-lima-3086632a7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <br>
