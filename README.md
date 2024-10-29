@@ -1,7 +1,6 @@
-<h1>Hello!</h1>
+<h1>Hi!</h1>
 
 <h3>Lucas Lima here. I'am student developer and passionate about technology! I am currently studying and developing projects with:</h3>
-<h4>I am currently studying and developing projects with:</h4>
   <br>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
