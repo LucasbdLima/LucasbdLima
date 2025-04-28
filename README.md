@@ -13,7 +13,7 @@
 <br>
 <h3>Connect with me:</h3>
 <br>
-<a href="https://www.linkedin.com/in/lucas-lima-3086632a7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://github.com/LucasbdLima"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://www.instagram.com/_lucasbdlima_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <br>
 <br>
